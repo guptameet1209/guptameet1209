@@ -1,16 +1,77 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**guptameet1209/guptameet1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%20There,%20I'm%20Meet%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Building+with+JavaScript+%26+Python;Collaborative+Tools+%7C+ML+Projects;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meet-kumar-gupta-89b943351)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/meet_kgupta)
+
+</div>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🚀 Full-Stack Developer who enjoys building things end to end — frontend, backend, and everything in between
+- 🛠️ Currently exploring real-time collaboration tools and machine learning applications
+- 🌱 Always leveling up my skills across the stack
+- 💬 Ask me about JavaScript, Python, or building collaborative web apps
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/meet-kumar-gupta-89b943351) or [X](https://x.com/meet_kgupta)
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+### 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/guptameet1209/CollaborativeCodeEditor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guptameet1209&repo=CollaborativeCodeEditor&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/guptameet1209/fake-news-detection-bert">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guptameet1209&repo=fake-news-detection-bert&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=guptameet1209&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guptameet1209&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptameet1209&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=guptameet1209&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
