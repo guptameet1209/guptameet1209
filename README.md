@@ -42,16 +42,10 @@
 
 ### 📌 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/guptameet1209/CollaborativeCodeEditor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guptameet1209&repo=CollaborativeCodeEditor&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/guptameet1209/fake-news-detection-bert">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guptameet1209&repo=fake-news-detection-bert&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+| | |
+|---|---|
+| **[💻 Collaborative Code Editor](https://github.com/guptameet1209/CollaborativeCodeEditor)** | A real-time, multi-user code editor built with React, Monaco Editor, Socket.IO, and Node.js/Express. Supports live cursors, chat, code execution via Judge0, version history, and JWT auth. |
+| **[📰 Fake News Detector — BERT](https://github.com/guptameet1209/fake-news-detection-bert)** | An NLP project that fine-tunes `bert-base-uncased` for fake-news classification, served through a Streamlit app. Achieves ~98–99% accuracy using HuggingFace Transformers and PyTorch. |
 
 ---
 
